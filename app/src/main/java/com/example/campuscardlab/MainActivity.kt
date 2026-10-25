@@ -51,8 +51,8 @@ fun CampusCardScreen() {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(text = "Campus Card", style = MaterialTheme.typography.headlineMedium)
-            Text(text = "Ada Lovelace", style = MaterialTheme.typography.bodyLarge)
-            Text(text = "Student ID: 2026001", style = MaterialTheme.typography.bodyMedium)
+            Text(text = "Abror Akhmedov", style = MaterialTheme.typography.bodyLarge)
+            Text(text = "Student ID: 2142", style = MaterialTheme.typography.bodyMedium)
         }
 
         Spacer(modifier = Modifier.height(24.dp)) // Просто отступ
